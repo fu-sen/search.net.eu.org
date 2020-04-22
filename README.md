@@ -9,7 +9,7 @@ Search [EU.org Free domains](https://nic.eu.org/) using WHOIS.
 ## Powered by
 
 - [EU.org www.eu.org](https://nic.eu.org/) Free Domains
-- [▲ ZEIT](https://zeit.co/)
+- [▲ Vercel](https://vercel.com/)
 
 ## Presented by 
 
