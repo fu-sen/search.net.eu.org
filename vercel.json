@@ -2,7 +2,7 @@
   "regions": ["sfo1"],
   "functions": {
     "api/*.php": {
-      "runtime": "now-php@0.0.10"
+      "runtime": "vercel-php@0.1.0"
     }
   },
   "routes": [
