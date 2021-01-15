@@ -16,6 +16,8 @@ if (isset($_GET["d"]))
 
     fputs ( $fsock, "{$_GET["d"]}\r\n" );
 
+    $result = "";
+
     while (!feof($fsock))
     {
         $result .= fgets($fsock, 512);
